@@ -1,4 +1,4 @@
-# 3d-demo
+# three.js导入3D模型
 
 ## Project setup
 ```
